@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021/06/15 00:17:40.569,=C:\Users\Max\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/06/15 00:17:43.315,=C:\Users\Max\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/06/15 00:33:23.813,E:\OneDrive\git\into_prog_cppbuilder_comm_tdd_opencv\projects\c1\umain.fmx=C:\Users\Max\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/06/15 00:33:23.813,E:\OneDrive\git\into_prog_cppbuilder_comm_tdd_opencv\projects\c1\umain.h=C:\Users\Max\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/06/15 00:33:23.813,E:\OneDrive\git\into_prog_cppbuilder_comm_tdd_opencv\projects\c1\umain.cpp=C:\Users\Max\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/06/15 00:35:23.638,E:\OneDrive\git\into_prog_cppbuilder_comm_tdd_opencv\projects\c1\ProjectCap1PCH1.h=C:\Users\Max\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/06/15 00:35:51.056,E:\OneDrive\git\into_prog_cppbuilder_comm_tdd_opencv\projects\c1\ProjectCap1.cbproj=C:\Users\Max\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
